@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rungum",
+    "name": "RUNGUM",
+    "logo": "/brands/11.png",
+    "image": "/brands/1.png"
+  },
+  {
+    "id": "beardbrand",
+    "name": "Beardbrand",
+    "logo": "/brands/22.png",
+    "image": "/brands/2.png"
+  },
+  {
+    "id": "promix",
+    "name": "PROMIX",
+    "logo": "/brands/33.png",
+    "image": "/brands/3.png"
+  },
+  {
+    "id": "northmaker",
+    "name": "North Maker",
+    "logo": "/brands/44.png",
+    "image": "/brands/4.png"
+  }
+]

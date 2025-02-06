@@ -1,4 +1,4 @@
-import type { Config } from "tailwindcss";
+import type { Config } from 'tailwindcss';
 
 export default {
   content: [
@@ -11,6 +11,13 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+      },
+      dropShadow: {
+        'custom': '4px 4px 0px #2E2F35',
+      },
+      fontFamily: {
+        inter: ['Inter', 'sans-serif'],
+        'covered-by-your-grace': ['"Covered By Your Grace"', 'sans-serif'], // Make sure to include quotes if the font has spaces
       },
     },
   },

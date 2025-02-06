@@ -1,0 +1,24 @@
+{
+  "menuItems": [
+    {
+      "label": "Resources",
+      "enabled": true,
+      "options": ["Option 1", "Option 2", "Option 3"]
+    },
+    {
+      "label": "Success stories",
+      "enabled": true,
+      "options": []
+    },
+    {
+      "label": "Company",
+      "enabled": true,
+      "options": ["Option A", "Option B", "Option C"]
+    },
+    {
+      "label": "Pricing",
+      "enabled": true,
+      "options": []
+    }
+  ]
+}
