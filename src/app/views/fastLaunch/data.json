@@ -1,0 +1,20 @@
+[
+    {
+      "number": "01",
+      "title": "Segment"
+    },
+    {
+      "number": "02",
+      "title": "Design"
+    },
+    {
+      "number": "03",
+      "title": "Send",
+      "description": "One-off announcements or automatically triggered flows. Customers receive their personalized cards within a week."
+    },
+    {
+      "number": "04",
+      "title": "Convert"
+    }
+  ]
+  

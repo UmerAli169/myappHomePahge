@@ -23,9 +23,9 @@ const DirectMailStats = () => {
             </p>
           </div>
 
-          <div className="flex flex-col items-center">
+          <div className="flex flex-col items-center ">
             <img src="\mails\mail.png" alt="" className=" min-w-20 w-full " />
-            <p className="mt-2 text-[#58595D]">Your messages get read</p>{" "}
+            <p className="mt-10 text-[#58595D]">Your messages get read</p>{" "}
           </div>
 
           <div className="text-center ">
