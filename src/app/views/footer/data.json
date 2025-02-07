@@ -1,0 +1,28 @@
+[
+    {
+      "title": "COMPANY",
+      "links": [
+        { "name": "About us", "url": "/about" },
+        { "name": "Partner program", "url": "/partner" },
+        { "name": "About us", "url": "/about" },
+        { "name": "Partner program", "url": "/partner" },
+        { "name": "About us", "url": "/about" }
+     
+      ]
+    },
+    {
+        "title": "COMPANY",
+        "links": [
+          { "name": "About us", "url": "/about" },
+          { "name": "Partner program", "url": "/partner" },
+          { "name": "About us", "url": "/about" },
+          { "name": "Partner program", "url": "/partner" },
+          { "name": "About us", "url": "/about" }
+       
+        ]
+      }
+    
+   
+  ]
+  
+  

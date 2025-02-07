@@ -1,0 +1,50 @@
+[
+  {
+    "icon": "/featchercard/1.png",
+    "iconWidth": 290,
+    "iconHeight": 155,
+    "title": "Plug-and-play with your stack",
+    "description": "Native integrations provide seamless segmentation, automation & tracking. No clunky spreadsheets.",
+    "bgColor": "bg-[#FDF3EA]"
+  },
+  {
+    "icon": "/featchercard/2.png",
+    "iconWidth": 278,
+    "iconHeight": 150,
+    "title": "Run campaigns on autopilot",
+    "description": "Ink profits while you sleep. Just set it and forget it.",
+    "bgColor": "bg-[#E0F8F2]"
+  },
+  {
+    "icon": "/featchercard/3.png",
+    "iconWidth": 267,
+    "iconHeight": 222,
+    "title": "Real-time ROI dashboard",
+    "description": "Track performance of every postcard by customer or discount code. Your CFO will love it.",
+    "bgColor": "bg-[#EEECFF]"
+  },
+  {
+    "icon": "/featchercard/4.png",
+    "iconWidth": 239,
+    "iconHeight": 220,
+    "title": "Deliver WOW with *real* handwritten cards",
+    "description": "Our proprietary robots use real pens and ink for an unforgettable VIP touch.",
+    "bgColor": "bg-[#D9F2F7]"
+  },
+  {
+    "icon": "/featchercard/5.png",
+    "iconWidth": 190,
+    "iconHeight": 181,
+    "title": "Predictable pricing",
+    "description": "Unlike CPCs, postage rates don’t change based on competition or who you’re targeting.",
+    "bgColor": "bg-[#FAEDED]"
+  },
+  {
+    "icon": "/featchercard/6.png",
+    "iconWidth": 220,
+    "iconHeight": 224,
+    "title": "Complimentary concierge service",
+    "description": "DTC is in our DNA. Our pros will build your strategy and custom designs using battle-tested best practices.",
+    "bgColor": "bg-[#F1F1F1]"
+  }
+]

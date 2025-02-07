@@ -4,6 +4,9 @@ import Hero from "../views/heroSection/HeroSection";
 import TrustedBrands from "../views/trustedBrands/TrustedBrands";
 import DirectMailStats from "../views/directMailStats/DirectMailStats";
 import PostPilot from "../views/contentBlock/Content";
+import FeatureCard from "../views/featureCard/FeatureCard";
+import Footer from "../views/footer/Footer";
+
 
 export default function page() {
   return (
@@ -12,7 +15,9 @@ export default function page() {
       {/* <Hero /> */}
       {/* <TrustedBrands /> */}
       {/* <DirectMailStats /> */}
-      <PostPilot />
+      {/* <PostPilot /> */}
+      {/* <FeatureCard/> */}
+      <Footer/>
     </div>
   );
 }
