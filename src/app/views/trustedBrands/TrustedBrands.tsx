@@ -4,9 +4,9 @@ import brandsData from "./data.json";
 
 const TrustedBrands = () => {
   return (
-    <section className="py-16 px-4 md:px-8 bg-[#FFFFFF]">
+    <section className="py-16 px-0 md:px-8 bg-[#FFFFFF]">
       <div className="w-full mx-auto">
-        <p className=" lg:text-[63px] text-[56px] lg:leading-[76px] leading-[56px]  text-[#2E2F35] lg:font-bold  font-medium  text-center lg:mb-12 mb-8">
+        <p className=" lg:text-[63px] text-[26px] lg:leading-[76px] leading-[26px]  text-[#2E2F35] lg:font-bold  font-medium  text-center lg:mb-12 mb-8">
           Trusted by thousands
           <br /> of top DTC{" "}
           <span className="text-[#2D7474] font-handwriting">brands</span>.

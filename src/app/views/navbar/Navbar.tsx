@@ -21,7 +21,7 @@ const Navbar: React.FC = () => {
         <p className="text-2xl font-bold">PostPilot</p>
       </div>
 
-      <nav className="hidden md:flex w-[793px] justify-between items-center">
+      <nav className="hidden md:flex w-full max-w-[793px] justify-between items-center">
         <ul className="flex space-x-6 h-[56px] items-center justify-between w-[487px]">
           {menuItems.map((item) => (
             <MenuItem key={item.label} label={item.label} enabled={item.enabled} options={item.options} />

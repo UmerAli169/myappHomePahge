@@ -4,20 +4,20 @@
       "links": [
         { "name": "About us", "url": "/about" },
         { "name": "Partner program", "url": "/partner" },
-        { "name": "About us", "url": "/about" },
-        { "name": "Partner program", "url": "/partner" },
-        { "name": "About us", "url": "/about" }
+        { "name": "Career", "url": "/about" },
+        { "name": "Contact us", "url": "/partner" },
+        { "name": "Privacy Policy", "url": "/about" }
      
       ]
     },
     {
-        "title": "COMPANY",
+        "title": " SUPPORT ",
         "links": [
-          { "name": "About us", "url": "/about" },
-          { "name": "Partner program", "url": "/partner" },
-          { "name": "About us", "url": "/about" },
-          { "name": "Partner program", "url": "/partner" },
-          { "name": "About us", "url": "/about" }
+          { "name": "Pricing", "url": "/about" },
+          { "name": "Reviews", "url": "/partner" },
+          { "name": "Direct Mail Academy", "url": "/about" },
+          { "name": "Success stories", "url": "/partner" },
+          { "name": "Terms & conditions", "url": "/about" }
        
         ]
       }

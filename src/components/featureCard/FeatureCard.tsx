@@ -12,7 +12,7 @@ interface FeatureCardProps {
 
 const FeatureCard: React.FC<FeatureCardProps> = ({ icon, iconWidth, iconHeight, title, description, bgColor }) => {
   return (
-    <div className={`p-6  border w-[410px]   h-[506px] rounded-[13px] ${bgColor}`}>
+    <div className={`p-6  border    h-[506px] rounded-[13px] ${bgColor}`}>
       <div className=' m-12'>
         <Image src={icon} alt={title} width={iconWidth} height={iconHeight} />
       </div>
