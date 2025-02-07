@@ -1,58 +1,42 @@
-// components/sections/direct-mail-stats/DirectMailStats.tsx
-import React from 'react';
+import React from "react";
 
 const DirectMailStats = () => {
   return (
-    <section className="py-16 px-4 md:px-8 bg-[#F3FAFA]">
+    <section className="py-16 px-4 md:px-8 bg-[#F3FAFA] h-[642px]">
       <div className="max-w-5xl mx-auto text-center">
-        <h2 className="text-[63px]  leading-[76px] text-[#2E2F35] font-bold text-center mb-12">
+        <p className=" lg:text-[63px] text-[56px] lg:leading-[76px] leading-[56px]  text-[#2E2F35] lg:font-bold  font-medium  text-center lg:mb-12 mb-8">
           Why use direct mail?
           <br />
-          <span className="">It <span className='text-[#2D7474] font-handwriting'>works </span> like crazy.</span>
-          </h2>
+          <span className="">
+            It <span className="text-[#2D7474] font-handwriting">works </span>{" "}
+            like crazy.
+          </span>
+        </p>
 
-        <div className="flex justify-center items-center space-x-12 relative">
-          <div className="text-center">
-            <div className="text-5xl font-bold text-[#FF6D2C]">28X</div>
-            <div className="text-lg font-medium mt-2">
-              Higher response rate
-              <br />than email & digital
+        <div className="flex justify-around items-center lg:w-[1024px]  relative">
+          <div className="text-center w-[228px]">
+            <div className="lg:text-[64px] text-[44px] font-bold text-[#2E2F35]">
+              28X
             </div>
+            <p className="text-[14px] font-normal leading-[22px] text-[#58595D]">
+              Higher response rate than email & digital
+            </p>
           </div>
-          
-          <div className="relative w-64 h-48">
-            <div className="absolute inset-0 bg-gradient-to-b from-blue-100 to-white opacity-50 rounded-lg"></div>
-            
-            <div 
-              className="absolute bottom-0 left-1/2 transform -translate-x-1/2 
-                         w-24 h-40 bg-[#FF6D2C] rounded-t-lg flex flex-col 
-                         justify-end items-center text-white pt-2"
-            >
-              <span className="text-2xl font-bold">90%</span>
-              <span className="text-xs">Gets read</span>
-            </div>
-            
-            {/* Blue Bar */}
-            <div 
-              className="absolute bottom-0 left-1/2 transform translate-x-1/2 
-                         w-24 h-12 bg-[#2D7474] rounded-t-lg flex flex-col 
-                         justify-end items-center text-white pt-2"
-            >
-              <span className="text-2xl font-bold">20%</span>
-              <span className="text-xs">Gets read</span>
-            </div>
+
+          <div className="flex flex-col items-center">
+            <img src="\mails\mail.png" alt="" className="w-[228px] h-[201px]" />
+            <p className="mt-2 text-[#58595D]">Your messages get read</p>{" "}
           </div>
-          
-          <div className="text-center">
-            <div className="text-5xl font-bold text-[#2D7474]">17 Days</div>
-            <div className="text-lg font-medium mt-2">
-              Lifespan of a postcard
-              <br />vs seconds for email
+
+          <div className="text-center w-[228px]">
+            <div className="lg:text-[64px] text-[44px] font-bold text-[#2E2F35]">
+              17days
             </div>
+            <p className="text-[14px] font-normal leading-[22px] text-[#58595D]">
+              Lifespan of a postcard vs. seconds for email or SMS
+            </p>
           </div>
         </div>
-        
-       
       </div>
     </section>
   );

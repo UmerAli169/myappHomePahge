@@ -3,10 +3,10 @@ import Button from "../../../components/navbar/Button";
 
 const Hero = () => {
   return (
-    <div className="flex flex-col md:flex-row items-center justify-between   bg-[#E0F8F2] overflow-hidden   ">
-      <div className="my-[128px] mx-[75px] w-[1290px]  h-[380px] flex  items-center justify-between  ">
+    <div className="flex flex-col md:flex-row md:flex-wrap items-center justify-between bg-[#E0F8F2] overflow-hidden">
+      <div className="lg:my-[128px]  my-[80px]  mx-[50px] lg:mx-[75px] w-[1240px]  h-[380px] flex  items-center justify-between  ">
         <div>
-          <div className="w-[769px] text-[82px] font-bold leading-[96px] text-[#2E2F35]">
+          <div className="w-[769px] font-bold lg:text-[82px] text-[52px] leading-[66px] lg:leading-[96px] text-[#2E2F35]">
             Meet your{" "}
             <span className="font-[CoveredByYourGrace] text-[#009387]">
               favorite
@@ -21,7 +21,7 @@ const Hero = () => {
           <div className="flex items-center gap-4 ">
             <Button
               text="TRY IT RISK-FREE"
-              className="my-12 bg-[#FF6D2C] w-[261px] h-[64px] text-[13px] border border-[#2E2F35]  text-[#FFFFFF]"
+              className="my-12 bg-[#FF6D2C] w-[261px]  h-[64px] text-[13px] border border-[#2E2F35]  text-[#FFFFFF]"
             />
 
             <div className="flex flex-col items-center gap-2 ">
